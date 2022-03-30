@@ -1,0 +1,151 @@
+! code is:0 1 1 0 1 0 0 0 1 
+? code is:1 0 1 1 0 1 0 0 1 
+" code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 1 
+; code is:0 1 0 1 0 0 0 1 
+
+ code is:1 0 0 0 1 
+) code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 
+( code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 1 
+: code is:0 1 0 1 0 0 0 0 
+. code is:0 1 1 0 1 0 1 
+, code is:1 0 1 1 0 0 
+  code is:1 1 0 
+9 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 0 
+8 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 1 
+7 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 0 
+6 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 1 
+5 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 0 
+4 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 0 1 
+3 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 0 0 
+2 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 1 1 
+1 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 1 0 
+0 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0 1 
+Z code is:0 0 1 1 1 1 0 1 1 1 0 
+Y code is:1 0 1 1 1 0 1 0 0 1 0 
+X code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0 0 
+W code is:1 0 1 1 1 0 0 0 1 
+V code is:0 0 1 1 1 1 0 1 1 1 1 0 1 
+U code is:1 0 1 0 0 0 0 0 
+T code is:1 0 1 0 0 1 1 
+S code is:1 0 1 0 0 0 0 1 
+R code is:1 0 1 1 1 0 0 1 
+Q code is:1 0 1 1 0 1 0 0 0 1 0 
+P code is:0 1 1 0 1 0 0 0 0 
+O code is:0 0 1 1 1 1 1 
+N code is:1 0 1 1 0 1 0 1 
+M code is:0 1 1 0 1 0 0 1 
+L code is:0 1 0 1 0 1 0 
+K code is:0 0 1 1 1 1 0 1 1 0 
+J code is:0 0 1 1 1 1 0 1 1 1 1 0 0 1 
+I code is:1 0 1 0 0 1 0 
+H code is:1 0 1 1 1 0 1 1 
+G code is:1 0 1 1 1 0 0 0 0 
+F code is:1 0 1 1 1 0 1 0 0 0 
+E code is:1 0 1 0 0 0 1 
+D code is:0 0 1 1 1 1 0 0 
+C code is:1 0 1 1 1 0 1 0 1 
+B code is:0 0 1 1 1 1 0 1 0 
+A code is:1 0 1 0 1 1 0 
+z code is:0 0 1 1 1 1 0 1 1 1 1 1 
+y code is:1 0 1 0 1 0 
+x code is:1 0 1 1 0 1 0 0 0 0 
+w code is:0 1 1 0 1 1 
+v code is:0 1 0 1 0 1 1 
+u code is:0 0 1 1 0 
+t code is:1 0 0 1 
+s code is:0 0 1 0 
+r code is:1 1 1 1 0 
+q code is:1 0 1 1 1 0 1 0 0 1 1 
+p code is:1 0 1 1 0 1 1 
+o code is:0 1 1 1 
+n code is:0 0 0 1 
+m code is:1 0 1 1 1 1 
+l code is:1 0 0 0 0 
+k code is:0 1 0 1 0 0 1 
+j code is:1 0 1 1 0 1 0 0 0 1 1 
+i code is:1 1 1 1 1 
+h code is:0 0 0 0 
+g code is:0 0 1 1 1 0 
+f code is:0 1 1 0 0 1 
+e code is:1 1 1 0 
+d code is:0 1 0 1 1 
+c code is:0 1 1 0 0 0 
+b code is:1 0 1 0 1 1 1 
+a code is:0 1 0 0 
+-----------------------------------------------------------------------------
+
+ code is:1 0 0 0 1 
+  code is:1 1 0 
+! code is:0 1 1 0 1 0 0 0 1 
+" code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 1 
+( code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 1 
+) code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 
+, code is:1 0 1 1 0 0 
+. code is:0 1 1 0 1 0 1 
+0 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0 1 
+1 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 1 0 
+2 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 1 1 
+3 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 0 0 
+4 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 0 1 
+5 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 0 
+6 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 1 
+7 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 0 
+8 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 1 
+9 code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 0 
+: code is:0 1 0 1 0 0 0 0 
+; code is:0 1 0 1 0 0 0 1 
+? code is:1 0 1 1 0 1 0 0 1 
+A code is:1 0 1 0 1 1 0 
+B code is:0 0 1 1 1 1 0 1 0 
+C code is:1 0 1 1 1 0 1 0 1 
+D code is:0 0 1 1 1 1 0 0 
+E code is:1 0 1 0 0 0 1 
+F code is:1 0 1 1 1 0 1 0 0 0 
+G code is:1 0 1 1 1 0 0 0 0 
+H code is:1 0 1 1 1 0 1 1 
+I code is:1 0 1 0 0 1 0 
+J code is:0 0 1 1 1 1 0 1 1 1 1 0 0 1 
+K code is:0 0 1 1 1 1 0 1 1 0 
+L code is:0 1 0 1 0 1 0 
+M code is:0 1 1 0 1 0 0 1 
+N code is:1 0 1 1 0 1 0 1 
+O code is:0 0 1 1 1 1 1 
+P code is:0 1 1 0 1 0 0 0 0 
+Q code is:1 0 1 1 0 1 0 0 0 1 0 
+R code is:1 0 1 1 1 0 0 1 
+S code is:1 0 1 0 0 0 0 1 
+T code is:1 0 1 0 0 1 1 
+U code is:1 0 1 0 0 0 0 0 
+V code is:0 0 1 1 1 1 0 1 1 1 1 0 1 
+W code is:1 0 1 1 1 0 0 0 1 
+X code is:0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0 0 
+Y code is:1 0 1 1 1 0 1 0 0 1 0 
+Z code is:0 0 1 1 1 1 0 1 1 1 0 
+a code is:0 1 0 0 
+b code is:1 0 1 0 1 1 1 
+c code is:0 1 1 0 0 0 
+d code is:0 1 0 1 1 
+e code is:1 1 1 0 
+f code is:0 1 1 0 0 1 
+g code is:0 0 1 1 1 0 
+h code is:0 0 0 0 
+i code is:1 1 1 1 1 
+j code is:1 0 1 1 0 1 0 0 0 1 1 
+k code is:0 1 0 1 0 0 1 
+l code is:1 0 0 0 0 
+m code is:1 0 1 1 1 1 
+n code is:0 0 0 1 
+o code is:0 1 1 1 
+p code is:1 0 1 1 0 1 1 
+q code is:1 0 1 1 1 0 1 0 0 1 1 
+r code is:1 1 1 1 0 
+s code is:0 0 1 0 
+t code is:1 0 0 1 
+u code is:0 0 1 1 0 
+v code is:0 1 0 1 0 1 1 
+w code is:0 1 1 0 1 1 
+x code is:1 0 1 1 0 1 0 0 0 0 
+y code is:1 0 1 0 1 0 
+z code is:0 0 1 1 1 1 0 1 1 1 1 1 
+
+treeWPL is:832627
